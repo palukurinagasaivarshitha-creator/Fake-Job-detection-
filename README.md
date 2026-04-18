@@ -45,5 +45,12 @@ Output:
 Fake Job ❌
 High Risk
 
+#  Demo
+
+![Image1](IMG-20260416-WA0055.jpg)
+![Image2](IMG-20260416-WA0052.jpg)
+![Image3](IMG-20260416-WA0053.jpg)
+![Image4](IMG-20260416-WA0054.jpg)
+
 #Conclusion
 This project helps users identify fake job offers and stay safe from scams.
