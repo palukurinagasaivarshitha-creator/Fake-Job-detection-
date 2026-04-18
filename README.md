@@ -21,7 +21,29 @@ This system analyzes job descriptions and identifies whether a job is Real, Susp
 
 # Tech Stack
 - Frontend: HTML, CSS, JavaScript  
-- Backend: Python (FastAPI)  
+- Backend: Python (FastAPI)
+
+ # Dataset
+We analyzed fake job datasets from Kaggle to understand scam patterns and built rule-based detection based on those insights.
+
+# How to Run
+
+1. Install dependencies:
+pip install fastapi uvicorn
+
+2. Run backend:
+uvicorn main:app --reload
+
+3. Open index.html in browser
+
+# Example
+
+Input:
+Join via WhatsApp and earn 5000 per day urgently
+
+Output:
+Fake Job ❌
+High Risk
 
 #Conclusion
 This project helps users identify fake job offers and stay safe from scams.
